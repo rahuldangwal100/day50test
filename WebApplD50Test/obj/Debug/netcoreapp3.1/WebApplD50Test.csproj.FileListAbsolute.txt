@@ -109,3 +109,4 @@ D:\tests\WebApplD50Test\WebApplD50Test\obj\Debug\netcoreapp3.1\WebApplD50Test.ge
 D:\tests\WebApplD50Test\WebApplD50Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Home.cshtml.g.cs
 D:\tests\WebApplD50Test\WebApplD50Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
 D:\tests\WebApplD50Test\WebApplD50Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\tests\WebApplD50Test\WebApplD50Test\obj\Debug\netcoreapp3.1\Razor\Views\Student\Display.cshtml.g.cs
